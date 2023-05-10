@@ -1,4 +1,5 @@
 import { useRouter } from "next/router";
+
 const DocDetail = () => {
   const {
     query: { params = [] },
